@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @J0SHVAA
+- 👋 Hi, I’m @joshuaromero
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Programming Languages
 - 💞️ I’m looking to collaborate on different companies soon
